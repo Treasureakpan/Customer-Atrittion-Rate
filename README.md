@@ -1,5 +1,5 @@
 # Customer Attrition Rate
-
+![Alt text](https://github.com/Treasureakpan/Customer-Atrittion-Rate/blob/main/Customer%20Atrittion%20rate.jpg)
 ## Introduction
 The aim of this project is to create an **interactive employee analytics dashboard** in **Power BI** for **AMC Company**.  
 This dashboard provides key stakeholders with **meaningful insights** and supports **data-driven decisions** related to the workforce, covering areas such as:
@@ -64,6 +64,8 @@ The following **Power BI features and concepts** were applied:
 ---
 
 ## Data Transformation & Cleaning
+![Alt text](https://github.com/Treasureakpan/Customer-Atrittion-Rate/blob/main/Power%20query%202.png)
+
 Data was cleaned and transformed in **Power Query Editor** with steps such as:  
 - Adjusting **Age** and **Bonus** columns from *text → number*.  
 - Adjusting **Employee ID** from *number → text*.  
@@ -71,6 +73,9 @@ Data was cleaned and transformed in **Power Query Editor** with steps such as:
 ---
 
 ## Visualizations
+
+![Alt text](https://github.com/Treasureakpan/Customer-Atrittion-Rate/blob/main/Customer%20Attrition%20.png)
+
 The dashboard includes:  
 - Employee distribution by **gender** and **ethnicity**  
 - **Top 5 annual salaries** by employees  
